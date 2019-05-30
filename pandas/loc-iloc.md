@@ -9,3 +9,4 @@
 
 这里说的标签就是指列名。
 
+![iloc_loc](assets/iloc_loc.png)
